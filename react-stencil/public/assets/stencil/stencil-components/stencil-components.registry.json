@@ -1,0 +1,12 @@
+{
+  "namespace": "StencilComponents",
+  "fsNamespace": "stencil-components",
+  "loader": "../stencil-components.js",
+  "core": "stencil-components.moklsqgh.js",
+  "corePolyfilled": "stencil-components.pjydvidq.js",
+  "components": {
+    "st-card": {
+      "$": "7lvdfjld"
+    }
+  }
+}
